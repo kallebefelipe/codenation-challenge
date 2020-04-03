@@ -130,3 +130,6 @@ dmypy.json
 
 # Vs code conf
 .vscode
+
+# answer.json
+answer.json
